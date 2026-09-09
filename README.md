@@ -12,30 +12,30 @@ summarize incidents and recommend remediation steps.
 
 Architecture
 
-├── AWS
+├ ── AWS
 
-│   ├── EC2
+│ ── EC2
 
-│   ├── CloudWatch
+│ ── CloudWatch
 
-│   └── CloudTrail
-│
+│ ── CloudTrail
+
 ├── Azure
 
-│   ├── Virtual Machine
+│ ── Virtual Machine
 
-│   └── Azure Monitor
-│
+│ ── Azure Monitor
+
 ├── GCP
 
-│   ├── Compute Engine
+│ ── Compute Engine
 
-│   └── Cloud Logging
-│
+│ ── Cloud Logging
+
 ├── Terraform
 
-│   └── Multi-cloud infrastructure
-│
+│ ── Multi-cloud infrastructure
+
 
 └── AI
-    └── Incident analysis
+  ── Incident analysis
