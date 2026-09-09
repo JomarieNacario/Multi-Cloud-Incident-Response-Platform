@@ -11,21 +11,31 @@ across AWS, Azure, and Google Cloud and uses AI to
 summarize incidents and recommend remediation steps.
 
 Architecture
+
 ├── AWS
+
 │   ├── EC2
+
 │   ├── CloudWatch
+
 │   └── CloudTrail
 │
 ├── Azure
+
 │   ├── Virtual Machine
+
 │   └── Azure Monitor
 │
 ├── GCP
+
 │   ├── Compute Engine
+
 │   └── Cloud Logging
 │
 ├── Terraform
+
 │   └── Multi-cloud infrastructure
 │
+
 └── AI
     └── Incident analysis
