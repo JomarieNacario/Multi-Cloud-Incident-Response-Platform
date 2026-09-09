@@ -14,28 +14,28 @@ Architecture
 
 ├ ── AWS
 
-│ ── EC2
+  │ ── EC2
 
-│ ── CloudWatch
+  │ ── CloudWatch
 
-│ ── CloudTrail
-
+  │ ── CloudTrail
+  
 ├── Azure
 
-│ ── Virtual Machine
-
-│ ── Azure Monitor
+  │ ── Virtual Machine
+  
+  | ── Azure Monitor
 
 ├── GCP
 
-│ ── Compute Engine
+  │ ── Compute Engine
 
-│ ── Cloud Logging
+  │ ── Cloud Logging
 
 ├── Terraform
 
-│ ── Multi-cloud infrastructure
+  │ ── Multi-cloud infrastructure
 
 
-└── AI
+|── AI
   ── Incident analysis
